@@ -72,6 +72,7 @@ body {
 }
 
 .container {
+  position: relative;
   width: 320px;
   height: 320px;
   background: url(../assets/images/bg-pentagon.svg);
